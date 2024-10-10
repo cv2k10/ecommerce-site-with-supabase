@@ -1,0 +1,16 @@
+id,name,description,price,type
+1,CodeMaster IDE,Advanced integrated development environment for multiple programming languages,149.99,software
+2,DataSync Pro,Robust data synchronization tool for enterprise applications,99.99,software
+3,CloudGuard Security Suite,Comprehensive cloud security solution for businesses,199.99,software
+4,AI-Powered Text Analysis API,Natural language processing API for sentiment analysis and entity recognition,0.05,api
+5,Image Recognition API,Advanced image recognition and classification service,0.10,api
+6,Quantum Encryption Tool,State-of-the-art encryption software using quantum algorithms,299.99,software
+7,Weather Forecast API,Real-time weather data and forecasting service,0.02,api
+8,Virtual Meeting Platform,Feature-rich video conferencing and collaboration software,14.99,software
+9,Blockchain Integration API,API for seamless integration of blockchain technology into existing systems,0.20,api
+10,AutoML Platform,Automated machine learning platform for data scientists and developers,499.99,software
+11,Social Media Analytics API,Comprehensive social media data analysis and insights service,0.15,api
+12,Network Monitoring Suite,Advanced network monitoring and management software for IT professionals,179.99,software
+13,E-commerce Payment Gateway API,Secure and flexible payment processing service for online stores,0.30,api
+14,Virtual Reality Development Kit,Comprehensive toolkit for creating immersive VR experiences,249.99,software
+15,Geolocation Services API,Accurate geolocation and mapping service for mobile and web applications,0.08,api
